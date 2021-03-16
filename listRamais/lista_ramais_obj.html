@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Lista Ramais - ENGEPAR</title>
+    <link rel="icon" href="phone_favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="css/reset.css" type="text/css" />
+    <link rel="stylesheet" href="css/index.css" type="text/css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="titulo">Lista de Ramais</h1>
+      </div>
+    </header>
+    <main>
+      <section class="container">
+        <label for="filtrar-tabela">Filtre:</label>
+        <input
+          type="text"
+          name="filtro"
+          id="filtrar-tabela"
+          placeholder="Digite o nome da pessoa ou departamento"
+        />
+        <table>
+          <thead>
+            <tr>
+              <th>Ramal</th>
+              <th>Nome</th>
+              <th>Departamento</th>
+            </tr>
+          </thead>
+          <tbody id="tabela-ramais">
+            <tr class="ramal" id="primeiro-ramal">
+              <td class="info-ramal">1750</td>
+              <td class="info-nome">VANIA</td>
+              <td class="info-departamento">SECRETARIA</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </main>
+    <script src="js/lista-ramais.js"></script>
+    <script src="js/filtrar-ramal.js"></script>
+  </body>
+  <footer>
+    <h2>Alf System - Abril 2020 - Todos os Direitos Reservados</h2>
+  </footer>
+</html>

@@ -1,0 +1,302 @@
+[
+  {
+    "ramal": 1801,
+    "nome": "VANIA",
+    "departamento": "SECRETARIA"
+  },
+  {
+    "ramal": 1777,
+    "nome": "PABX",
+    "departamento": "SECRETARIA"
+  },
+  {
+    "ramal": 1800,
+    "nome": "PABX",
+    "departamento": "SECRETARIA"
+  },
+  {
+    "ramal": 1760,
+    "nome": "SALA REUNIAO",
+    "departamento": "SECRETARIA"
+  },
+  {
+    "ramal": 1750,
+    "nome": "CARLOS CLEMENTINO",
+    "departamento": "DIRETOR PRESIDENTE"
+  },
+  {
+    "ramal": 1884,
+    "nome": "MARCO MOREIRA",
+    "departamento": "DIRETOR GERAL"
+  },
+  {
+    "ramal": 1752,
+    "nome": "RAFAEL ARNALDI",
+    "departamento": "DIRETOR FINANCEIRO"
+  },
+  {
+    "ramal": 1818,
+    "nome": "HENRIQUE VAL",
+    "departamento": "DIRETOR OBRAS"
+  },
+  {
+    "ramal": 1767,
+    "nome": "FERNANDO BEZERRA",
+    "departamento": "DIRETOR INCORPORAÇÃO"
+  },
+  {
+    "ramal": 1764,
+    "nome": "DARIO",
+    "departamento": "JURIDICO"
+  },
+  {
+    "ramal": 1756,
+    "nome": "MARCILIO",
+    "departamento": "FINANCEIRO"
+  },
+  {
+    "ramal": 1758,
+    "nome": "RODNEY",
+    "departamento": "FINANCEIRO"
+  },
+  {
+    "ramal": 1802,
+    "nome": "MEIRE",
+    "departamento": "FINANCEIRO"
+  },
+  {
+    "ramal": 1755,
+    "nome": "FERNANDA",
+    "departamento": "CONTAS RECEBER"
+  },
+  {
+    "ramal": 1822,
+    "nome": "NAYARA",
+    "departamento": "CONTAS RECEBER"
+  },
+  {
+    "ramal": 1807,
+    "nome": "NADIA",
+    "departamento": "CONTAS RECEBER"
+  },
+  {
+    "ramal": 1761,
+    "nome": "RAIANI",
+    "departamento": "CONTAS RECEBER"
+  },
+  {
+    "ramal": 1766,
+    "nome": "ALFREDO",
+    "departamento": "INFORMATICA"
+  },
+  {
+    "ramal": 1808,
+    "nome": "BRUNO",
+    "departamento": "INFORMATICA"
+  },
+  {
+    "ramal": 1766,
+    "nome": "MATHEUS",
+    "departamento": "INFORMATICA"
+  },
+  {
+    "ramal": 1754,
+    "nome": "JEFERSON",
+    "departamento": "CONTABILIDADE"
+  },
+  {
+    "ramal": 1805,
+    "nome": "CREUZA",
+    "departamento": "CONTABILIDADE"
+  },
+  {
+    "ramal": 1805,
+    "nome": "REJANE",
+    "departamento": "CONTABILIDADE"
+  },
+  {
+    "ramal": 1804,
+    "nome": "VALDIRENE",
+    "departamento": "CONTABILIDADE"
+  },
+  {
+    "ramal": 1798,
+    "nome": "JULIANA",
+    "departamento": "DOCUMENTACAO"
+  },
+  {
+    "ramal": 1821,
+    "nome": "JESSIKA",
+    "departamento": "DOCUMENTACAO"
+  },
+  {
+    "ramal": 1773,
+    "nome": "KAMILA",
+    "departamento": "ORCAMENTO"
+  },
+  {
+    "ramal": 1815,
+    "nome": "FERNANDO",
+    "departamento": "ORCAMENTO"
+  },
+  {
+    "ramal": 1763,
+    "nome": "DAYSE",
+    "departamento": "ORCAMENTO"
+  },
+  {
+    "ramal": 1762,
+    "nome": "RICARDO PETTNEGILL",
+    "departamento": "PROJETOS"
+  },
+  {
+    "ramal": 1765,
+    "nome": "FERNANDO LEITE",
+    "departamento": "PROJETOS"
+  },
+  {
+    "ramal": 1765,
+    "nome": "GABRIEL",
+    "departamento": "PROJETOS"
+  },
+  {
+    "ramal": 1765,
+    "nome": "AUGUSTO",
+    "departamento": "PROJETOS"
+  },
+  {
+    "ramal": 1768,
+    "nome": "RICKSON / RHAUANE / PAULO / BRUNO",
+    "departamento": "PROJETOS"
+  },
+  {
+    "ramal": 1753,
+    "nome": "RUI",
+    "departamento": "QSMS"
+  },
+  {
+    "ramal": 1772,
+    "nome": "KELLY",
+    "departamento": "QSMS"
+  },
+  {
+    "ramal": 1820,
+    "nome": "ALEX",
+    "departamento": "QSMS"
+  },
+  {
+    "ramal": 1859,
+    "nome": "THIAGO / EDSON / MARIA",
+    "departamento": "PLANEJAMENTO"
+  },
+  {
+    "ramal": 1781,
+    "nome": "ANTONIO GIL",
+    "departamento": "SUPRIMENTOS"
+  },
+  {
+    "ramal": 1778,
+    "nome": "AUGUSTO",
+    "departamento": "SUPRIMENTOS"
+  },
+  {
+    "ramal": 1780,
+    "nome": "OSVALDO",
+    "departamento": "SUPRIMENTOS"
+  },
+  {
+    "ramal": 1809,
+    "nome": "JULIO SANABRIA",
+    "departamento": "SUPRIMENTOS"
+  },
+  {
+    "ramal": 1771,
+    "nome": "LEANDRO ZANDONA",
+    "departamento": "SUPRIMENTOS"
+  },
+  {
+    "ramal": 1814,
+    "nome": "FABIO FEDRIZZI",
+    "departamento": "SUPRIMENTOS"
+  },
+  {
+    "ramal": 1794,
+    "nome": "ELI",
+    "departamento": "CONTROLADORIA"
+  },
+  {
+    "ramal": 1788,
+    "nome": "ISABELA",
+    "departamento": "CONTROLADORIA"
+  },
+  {
+    "ramal": 1796,
+    "nome": "LEONICE",
+    "departamento": "CONTROLADORIA"
+  },
+  {
+    "ramal": 1811,
+    "nome": "ALZIRA",
+    "departamento": "DEPTO. PESSOAL"
+  },
+  {
+    "ramal": 1791,
+    "nome": "VANDERSON",
+    "departamento": "DEPTO. PESSOAL"
+  },
+  {
+    "ramal": 1790,
+    "nome": "WELLINGTON",
+    "departamento": "DEPTO. PESSOAL"
+  },
+  {
+    "ramal": 1793,
+    "nome": "NATALIA",
+    "departamento": "DEPTO. PESSOAL"
+  },
+  {
+    "ramal": 1786,
+    "nome": "CELSO / NATAL",
+    "departamento": "ALMOXARIFADO"
+  },
+  {
+    "ramal": 1817,
+    "nome": "GILTON",
+    "departamento": "ALMOXARIFADO"
+  },
+  {
+    "ramal": 1787,
+    "nome": "RICARDO MARTINEZ",
+    "departamento": "TRANSPORTE / MANUT"
+  },
+  {
+    "ramal": 1774,
+    "nome": "POINARA",
+    "departamento": "TRANSPORTE / MANUT"
+  },
+  {
+    "ramal": 1797,
+    "nome": "FRANCIANE / DANIELE",
+    "departamento": "TRANSPORTE / MANUT"
+  },
+  {
+    "ramal": 1785,
+    "nome": "CARLOS BRONZE",
+    "departamento": "TRANSPORTE / MANUT"
+  },
+  {
+    "ramal": 1819,
+    "nome": "JULIO CESAR",
+    "departamento": "AUDITORIA"
+  },
+  {
+    "ramal": 1775,
+    "nome": "COPA",
+    "departamento": "COPA"
+  },
+  {
+    "ramal": 1789,
+    "nome": "GUARITA",
+    "departamento": "GUARITA"
+  }
+];
